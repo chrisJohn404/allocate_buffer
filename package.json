@@ -1,0 +1,21 @@
+{
+	"name": "allocate_buffer",
+	"version": "1.0.0",
+	"description": "",
+	"repository": "",
+	"main": "allocate_buffer.js",
+	"scripts": {
+		"test": "node ./node_modules/mocha/bin/mocha"
+	},
+	"author": "",
+	"license": "MIT",
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"deep-eql": "^4.0.0",
+		"mocha": "^6.2.2",
+		"rewire": "4.0.1"
+	},
+	"files": [
+		"allocate_buffer.js"
+	]
+}
