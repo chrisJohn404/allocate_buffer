@@ -1,13 +1,17 @@
 {
 	"name": "allocate_buffer",
 	"version": "1.0.0",
-	"description": "",
-	"repository": "",
+	"description": "A library to allocate buffers.",
 	"main": "allocate_buffer.js",
 	"scripts": {
 		"test": "node ./node_modules/mocha/bin/mocha"
 	},
-	"author": "",
+	"homepage": "https://github.com/chrisJohn404/allocate_buffer",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/chrisJohn404/allocate_buffer.git"
+    },
+	"author": "chrisJohn404",
 	"license": "MIT",
 	"devDependencies": {
 		"chai": "^4.2.0",
