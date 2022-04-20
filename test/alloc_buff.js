@@ -13,7 +13,7 @@ const rewire = require('rewire');
 
 const curVer = process.versions;
 
-const allocBuffer = require('../allocate_buffer.js').allocBuffer;
+const allocBuffer = rewire('../allocate_buffer.js').allocBuffer;
 
 describe('allocBuff()', function() {
 	describe('of length 10', function() {
