@@ -1,6 +1,6 @@
 {
 	"name": "allocate_buffer",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "A library to allocate buffers.",
 	"main": "allocate_buffer.js",
 	"scripts": {
